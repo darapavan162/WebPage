@@ -1,0 +1,100 @@
+ .bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height: 30vh;
+    background-size: cover;
+}
+
+.bg-container-heading {
+    color: #ffffff;
+    padding: 15px;
+    font-weight: normal;
+}
+
+.button-container {
+    padding: 20px;
+    background-color: #ffffff;
+    background-size: cover;
+}
+
+.img-puri {
+    height: 95px;
+    width: 130px;
+}
+
+.puri-heading {
+    color: #151765;
+    font-size: 14px;
+    font-family: roboto;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px 0px 0px 2px;
+
+}
+
+.paragraph {
+    color: #5a7184;
+    font-size: 15px;
+    text-align: center;
+}
+
+.puri-bg-container {
+    background-color: #151765;
+    height: 22vh;
+    background-size: cover;
+    padding: 20px;
+
+}
+
+.puri-page-heading {
+    color: #ffffff;
+    font-size: 18px;
+    font-family: roboto;
+    font-weight: bold;
+}
+
+.puri-page-paragraph {
+    color: white;
+    font-size: 12px;
+    font-family: roboto;
+}
+
+.padding {
+    margin: 0px 0px 0px 10px
+}
+
+.puri-home-bottom {
+    background-color: #ffffff;
+    background-size: cover;
+    padding: 15px;
+
+}
+
+.puri-song-heading {
+    font-family: roboto;
+    font-size: 16px;
+    color: #151765;
+    font-weight: bold;
+}
+
+.puri-song-paragraph {
+    font-family: roboto;
+    font-size: 12px;
+    color: #5a7184;
+}
+
+.back-button {
+    border-radius: 10px;
+    background-color: #151765;
+    color: #ffffff;
+}
+
+.tdx-bg-card {
+    background-color: #151765;
+    height: 22vh;
+    background-size: cover;
+    padding: 20px;
+}
+
+.margin {
+    margin: 10px;
+}
